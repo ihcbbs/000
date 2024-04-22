@@ -1,4 +1,4 @@
-root: ./快速手册
+root: ./docs/python
 
 ​structure:
   readme: README.md
