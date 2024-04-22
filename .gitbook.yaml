@@ -1,7 +1,7 @@
 root: ./docs/python/python进阶
 
 ​structure:
-  readme: README.md
+  #readme: README.md
   # summary: SUMMARY.md​
 
 # redirects:
