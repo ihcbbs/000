@@ -1,4 +1,4 @@
-root: ./docs
+root: ./参考手册
 
 ​structure:
   readme: README.md
