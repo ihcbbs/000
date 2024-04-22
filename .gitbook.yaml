@@ -1,4 +1,4 @@
-root: ./docs/TLDR
+root: ./docs/python/python进阶
 
 ​structure:
   readme: README.md
